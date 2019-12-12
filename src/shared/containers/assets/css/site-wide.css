@@ -1,0 +1,29 @@
+body {
+  background: lightgray;
+}
+
+.fixed-100w {
+  position: fixed;
+  width: 100%;
+}
+
+.thirds-equal {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 5rem;
+}
+
+.z-index-5 {
+  z-index: 5;
+}
+
+
+.thirds-equal h2 {
+  justify-self: center;
+  padding: 1rem 0;
+}
+
+.active {
+  font-weight: 900;
+  font-size: 1.2vw !important;
+}

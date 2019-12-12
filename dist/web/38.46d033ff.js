@@ -1,0 +1,1 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[38],{WRm0:function(_,A,D){D("Igas"),_.exports=self.fetch.bind(self)}}]);

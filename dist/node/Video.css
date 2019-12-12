@@ -1,0 +1,72 @@
+.video-controls-wrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 20vw;
+}
+
+/* svg.video-controls {
+  position: absolute;
+} */
+
+.video-controls-component:hover {
+  cursor: grab;
+}
+
+.video-controls-component:active {
+  cursor: grabbing;
+}
+
+.video-controls .button:hover {
+  cursor: pointer;
+}
+
+.st0 {
+  fill:none;
+  stroke: #FFF;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+}
+
+.st1 {
+  fill: #FFF;
+}
+
+.video-controls-play-button {
+  width: 208px;
+}
+
+.video-controls-wrapper p {
+  bottom: 3vh;
+  border-top: none;
+  color: #fff;
+  font-weight: 900;
+  grid-column-start: none;
+  grid-column-end: none;
+  margin: 0 50%;
+  padding: 0;
+  position: absolute;
+  transform: translate(-50%, 0);
+  width: 50%;
+  text-align: center;
+}
+
+.video-controls-wrapper p:hover {
+  cursor: pointer;
+}
+
+.hit-area {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+  transform: translate(-50%, -50%);
+}
+
+.hit-area:hover {
+  cursor: pointer;
+}
+

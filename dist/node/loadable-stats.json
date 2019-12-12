@@ -1,0 +1,1034 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.41.2",
+  "hash": "fd4ac15892f23ac551a5",
+  "publicPath": "/assets/node/",
+  "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+  "assetsByChunkName": {
+    "HeroTitle": [
+      "0.43ed3d6d.js",
+      "0.43ed3d6d.js.map"
+    ],
+    "Home": [
+      "1.a59fc7a5.js",
+      "1.a59fc7a5.js.map"
+    ],
+    "Image": [
+      "2.19e8a76a.js",
+      "2.19e8a76a.js.map"
+    ],
+    "Pizzas": [
+      "3.bf1f88da.js",
+      "3.bf1f88da.js.map"
+    ],
+    "Video": [
+      "Video.css",
+      "4.10c4d9ff.js",
+      "Video.css.map",
+      "4.10c4d9ff.js.map"
+    ],
+    "components-hero": [
+      "components-hero.css",
+      "5.3623facd.js",
+      "components-hero.css.map",
+      "5.3623facd.js.map"
+    ],
+    "components-main-site-header": [
+      "6.015eeec7.js",
+      "6.015eeec7.js.map"
+    ],
+    "coupon-cart-nav": [
+      "coupon-cart-nav.css",
+      "7.3a8edbe0.js",
+      "coupon-cart-nav.css.map",
+      "7.3a8edbe0.js.map"
+    ],
+    "elevator-pitch-nav": [
+      "elevator-pitch-nav.css",
+      "8.ca2db7c3.js",
+      "elevator-pitch-nav.css.map",
+      "8.ca2db7c3.js.map"
+    ],
+    "main": [
+      "main.css",
+      "server.js",
+      "main.css.map",
+      "server.js.map"
+    ],
+    "main-nav": [
+      "main-nav.css",
+      "10.bfba69b0.js",
+      "main-nav.css.map",
+      "10.bfba69b0.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "0.43ed3d6d.js",
+      "size": 266,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "HeroTitle"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "0.43ed3d6d.js.map",
+      "size": 564,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "HeroTitle"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "1.a59fc7a5.js",
+      "size": 1375,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "Home"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "1.a59fc7a5.js.map",
+      "size": 2331,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "Home"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "10.bfba69b0.js",
+      "size": 1356,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "main-nav"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "10.bfba69b0.js.map",
+      "size": 4505,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "main-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "2.19e8a76a.js",
+      "size": 289,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "Image"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "2.19e8a76a.js.map",
+      "size": 620,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "Image"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "3.bf1f88da.js",
+      "size": 985,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "Pizzas"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "3.bf1f88da.js.map",
+      "size": 1630,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "Pizzas"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "4.10c4d9ff.js",
+      "size": 30647,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "Video"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "4.10c4d9ff.js.map",
+      "size": 123382,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "Video"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "5.3623facd.js",
+      "size": 1804,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "components-hero"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "5.3623facd.js.map",
+      "size": 1461,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "components-hero"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "6.015eeec7.js",
+      "size": 1971,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "components-main-site-header"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "6.015eeec7.js.map",
+      "size": 1793,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "components-main-site-header"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "7.3a8edbe0.js",
+      "size": 689,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "coupon-cart-nav"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "7.3a8edbe0.js.map",
+      "size": 1484,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "coupon-cart-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "8.ca2db7c3.js",
+      "size": 1417,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "8.ca2db7c3.js.map",
+      "size": 3528,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "8fc622c3a2e2d992ec059cca61e3dfc0.ttf",
+      "size": 136076,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "Video.css",
+      "size": 1020,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "Video"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "Video.css.map",
+      "size": 1580,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "Video"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "components-hero.css",
+      "size": 1155,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "components-hero"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "components-hero.css.map",
+      "size": 1716,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "components-hero"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "coupon-cart-nav.css",
+      "size": 287,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "coupon-cart-nav"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "coupon-cart-nav.css.map",
+      "size": 593,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "coupon-cart-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "elevator-pitch-nav.css",
+      "size": 463,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "elevator-pitch-nav.css.map",
+      "size": 841,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "main-nav.css",
+      "size": 685,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "main-nav"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "main-nav.css.map",
+      "size": 1200,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "main-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "main.css",
+      "size": 7625,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "main.css.map",
+      "size": 10236,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "server.js",
+      "size": 11626,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "server.js.map",
+      "size": 28640,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        9
+      ],
+      "assets": [
+        "main.css",
+        "server.js",
+        "main.css.map",
+        "server.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        9
+      ],
+      "assets": [
+        "main.css",
+        "server.js",
+        "main.css.map",
+        "server.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-main-site-header": {
+      "chunks": [
+        6
+      ],
+      "assets": [
+        "6.015eeec7.js",
+        "6.015eeec7.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "Home": {
+      "chunks": [
+        1
+      ],
+      "assets": [
+        "1.a59fc7a5.js",
+        "1.a59fc7a5.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "Pizzas": {
+      "chunks": [
+        3
+      ],
+      "assets": [
+        "3.bf1f88da.js",
+        "3.bf1f88da.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "main-nav": {
+      "chunks": [
+        10
+      ],
+      "assets": [
+        "main-nav.css",
+        "10.bfba69b0.js",
+        "main-nav.css.map",
+        "10.bfba69b0.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "elevator-pitch-nav": {
+      "chunks": [
+        8
+      ],
+      "assets": [
+        "elevator-pitch-nav.css",
+        "8.ca2db7c3.js",
+        "elevator-pitch-nav.css.map",
+        "8.ca2db7c3.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "coupon-cart-nav": {
+      "chunks": [
+        7
+      ],
+      "assets": [
+        "coupon-cart-nav.css",
+        "7.3a8edbe0.js",
+        "coupon-cart-nav.css.map",
+        "7.3a8edbe0.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-hero": {
+      "chunks": [
+        5
+      ],
+      "assets": [
+        "components-hero.css",
+        "5.3623facd.js",
+        "components-hero.css.map",
+        "5.3623facd.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "HeroTitle": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "0.43ed3d6d.js",
+        "0.43ed3d6d.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "Video": {
+      "chunks": [
+        4
+      ],
+      "assets": [
+        "Video.css",
+        "4.10c4d9ff.js",
+        "Video.css.map",
+        "4.10c4d9ff.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "Image": {
+      "chunks": [
+        2
+      ],
+      "assets": [
+        "2.19e8a76a.js",
+        "2.19e8a76a.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 11,
+      "debug": false
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/hero/assets/css/hero.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/hero/assets/css/video-controls.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/coupon-cart-nav/assets/css/coupon-cart-nav.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/elevator-pitch-nav/assets/css/elevator-pitch.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/main-nav/assets/css/main-nav.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/main-nav/assets/css/menu-stack-icon.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/containers/assets/css/reset.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/containers/assets/css/site-wide.css"
+    }
+  ]
+}

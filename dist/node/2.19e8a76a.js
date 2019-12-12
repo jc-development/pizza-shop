@@ -1,0 +1,1 @@
+exports.ids=[2],exports.modules={otR4:function(t,e,n){"use strict";n.r(e);var r=n("cDcd"),a=n.n(r);e.default=function(t){var e=t.content,n=e.src,r=e.alt,c=e.figcaption;return a.a.createElement("figure",null,a.a.createElement("img",{src:n,alt:r}),a.a.createElement("figcaption",null,c))}}};

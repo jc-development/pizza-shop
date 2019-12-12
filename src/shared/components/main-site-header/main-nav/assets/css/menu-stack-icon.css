@@ -1,0 +1,14 @@
+svg#secondary-menu-icon {
+  /* position: absolute;
+  right: -2rem;
+  top: -0.4rem; */
+  /* transform: translate(0, 0); */
+}
+
+.hamburger-line {
+  fill: #fff;
+  stroke: #000;
+  stroke-miterlimit: 8;
+  stroke-width: 4px;
+  transform-origin: 25% 0;
+}

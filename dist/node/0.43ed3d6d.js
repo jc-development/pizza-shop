@@ -1,0 +1,1 @@
+exports.ids=[0],exports.modules={QaW2:function(e,t,n){"use strict";n.r(t);var r=n("cDcd"),a=n.n(r);t.default=function(e){var t=e.content,n=t.main,r=t.supporting;return a.a.createElement("header",null,a.a.createElement("h6",null,r),a.a.createElement("h1",null,n))}}};

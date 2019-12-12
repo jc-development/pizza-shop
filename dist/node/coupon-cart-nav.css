@@ -1,0 +1,18 @@
+.main-header-end {
+  grid-column-start: 3;
+}
+
+.main-header-end ul {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  justify-items: end;
+  padding: 1rem 1rem 0 0;
+}
+
+.main-header-end ul li a {
+  color: #fff;
+  font-size: 1vw;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+

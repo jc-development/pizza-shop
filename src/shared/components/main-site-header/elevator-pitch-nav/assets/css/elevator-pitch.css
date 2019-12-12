@@ -1,0 +1,27 @@
+.main-header-middle {
+  display: grid;
+  grid-template-rows: 8vh 4vh; /* repeat(2, 1fr); */
+}
+
+.main-header-middle h2 {
+  font-family: impact;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.25vw;
+  grid-row-start: 1;
+}
+
+.main-header-middle nav {
+  grid-row-start: 2;
+}
+
+.main-header-middle nav ul {
+  justify-items: center;
+}
+
+.main-header-middle nav ul li a {
+  color: #fff;
+  font-size: 1vw;
+  text-decoration: none;
+  text-transform: uppercase;
+}
