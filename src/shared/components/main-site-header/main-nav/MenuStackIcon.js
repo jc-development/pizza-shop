@@ -11,10 +11,10 @@ const MenuStackIcon = (props) => {
 
   const [ menuOpen, setMenuOpen ] = useState(false);
 
-    const tl = useMenuStackTL({ topLineRef, middleLineRef, bottomLineRef });
+  const tl = useMenuStackTL({ topLineRef, middleLineRef, bottomLineRef });
 
-    useEffect(() => {
-      menuOpen ? tl.play() : tl.reverse();
+  useEffect(() => {
+    menuOpen ? tl.play() : tl.reverse();
   }, [menuOpen]);
 
 

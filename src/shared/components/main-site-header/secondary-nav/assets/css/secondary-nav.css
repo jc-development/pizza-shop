@@ -1,0 +1,40 @@
+.full-page-nav {
+  background: #fff;
+  height: 100%;
+  left: 0;
+  overflow-y: auto;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 4;
+}
+
+.full-page-nav div {
+  left: 50%;
+  position: absolute;
+  top: 4rem;
+  transform: translate(-50%, 0);
+}
+
+.full-page-nav ul li a,
+.full-page-nav dl dt,
+.full-page-nav dl dd a {
+  color: #000;
+  font-family: impact, sans-serif;
+  margin: 1rem 0;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.full-page-nav ul li a,
+.full-page-nav dl dt {
+  font-size: 4vw;
+}
+
+.full-page-nav dl dd {
+  margin: 0.5rem 0;
+}
+
+.full-page-nav dl dd a {
+  font-size: 2vw;
+}

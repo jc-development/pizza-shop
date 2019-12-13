@@ -23,7 +23,7 @@ export const useMenuStackTL = ({topLineRef, middleLineRef, bottomLineRef}) => {
         0.5,
         { autoAlpha: 0 },
         0
-    );
+      );
   }, []);
 
   return tl;

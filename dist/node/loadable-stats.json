@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "63728fa1745b4f063b34",
+  "hash": "35c33e54e63fdd9346f2",
   "publicPath": "/assets/node/",
   "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
   "assetsByChunkName": {
@@ -35,20 +35,26 @@
       "5.3623facd.js.map"
     ],
     "components-main-site-header": [
-      "6.015eeec7.js",
-      "6.015eeec7.js.map"
+      "6.4e21ffd8.js",
+      "6.4e21ffd8.js.map"
+    ],
+    "components-main-site-header-secondary-nav": [
+      "components-main-site-header-secondary-nav.css",
+      "7.7e2f5dff.js",
+      "components-main-site-header-secondary-nav.css.map",
+      "7.7e2f5dff.js.map"
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
-      "7.3a8edbe0.js",
+      "8.77792da2.js",
       "coupon-cart-nav.css.map",
-      "7.3a8edbe0.js.map"
+      "8.77792da2.js.map"
     ],
     "elevator-pitch-nav": [
       "elevator-pitch-nav.css",
-      "8.ca2db7c3.js",
+      "9.54bb1b9e.js",
       "elevator-pitch-nav.css.map",
-      "8.ca2db7c3.js.map"
+      "9.54bb1b9e.js.map"
     ],
     "main": [
       "main.css",
@@ -58,9 +64,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "10.b60a0bd7.js",
+      "11.644639b5.js",
       "main-nav.css.map",
-      "10.b60a0bd7.js.map"
+      "11.644639b5.js.map"
     ]
   },
   "assets": [
@@ -121,10 +127,10 @@
       "emitted": false
     },
     {
-      "name": "10.b60a0bd7.js",
+      "name": "11.644639b5.js",
       "size": 1714,
       "chunks": [
-        10
+        11
       ],
       "chunkNames": [
         "main-nav"
@@ -135,10 +141,10 @@
       "emitted": false
     },
     {
-      "name": "10.b60a0bd7.js.map",
-      "size": 4466,
+      "name": "11.644639b5.js.map",
+      "size": 4462,
       "chunks": [
-        10
+        11
       ],
       "chunkNames": [
         "main-nav"
@@ -261,7 +267,7 @@
       "emitted": false
     },
     {
-      "name": "6.015eeec7.js",
+      "name": "6.4e21ffd8.js",
       "size": 1971,
       "chunks": [
         6
@@ -275,7 +281,7 @@
       "emitted": false
     },
     {
-      "name": "6.015eeec7.js.map",
+      "name": "6.4e21ffd8.js.map",
       "size": 1793,
       "chunks": [
         6
@@ -289,13 +295,13 @@
       "emitted": false
     },
     {
-      "name": "7.3a8edbe0.js",
-      "size": 689,
+      "name": "7.7e2f5dff.js",
+      "size": 969,
       "chunks": [
         7
       ],
       "chunkNames": [
-        "coupon-cart-nav"
+        "components-main-site-header-secondary-nav"
       ],
       "info": {
         "immutable": true
@@ -303,13 +309,13 @@
       "emitted": false
     },
     {
-      "name": "7.3a8edbe0.js.map",
-      "size": 1484,
+      "name": "7.7e2f5dff.js.map",
+      "size": 2318,
       "chunks": [
         7
       ],
       "chunkNames": [
-        "coupon-cart-nav"
+        "components-main-site-header-secondary-nav"
       ],
       "info": {
         "development": true
@@ -317,13 +323,13 @@
       "emitted": false
     },
     {
-      "name": "8.ca2db7c3.js",
-      "size": 1417,
+      "name": "8.77792da2.js",
+      "size": 689,
       "chunks": [
         8
       ],
       "chunkNames": [
-        "elevator-pitch-nav"
+        "coupon-cart-nav"
       ],
       "info": {
         "immutable": true
@@ -331,13 +337,13 @@
       "emitted": false
     },
     {
-      "name": "8.ca2db7c3.js.map",
-      "size": 3528,
+      "name": "8.77792da2.js.map",
+      "size": 1484,
       "chunks": [
         8
       ],
       "chunkNames": [
-        "elevator-pitch-nav"
+        "coupon-cart-nav"
       ],
       "info": {
         "development": true
@@ -350,6 +356,34 @@
       "chunks": [],
       "chunkNames": [],
       "info": {},
+      "emitted": false
+    },
+    {
+      "name": "9.54bb1b9e.js",
+      "size": 1417,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "9.54bb1b9e.js.map",
+      "size": 3528,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "elevator-pitch-nav"
+      ],
+      "info": {
+        "development": true
+      },
       "emitted": false
     },
     {
@@ -405,10 +439,36 @@
       "emitted": false
     },
     {
+      "name": "components-main-site-header-secondary-nav.css",
+      "size": 607,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "components-main-site-header-secondary-nav"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "components-main-site-header-secondary-nav.css.map",
+      "size": 1061,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "components-main-site-header-secondary-nav"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
       "name": "coupon-cart-nav.css",
       "size": 287,
       "chunks": [
-        7
+        8
       ],
       "chunkNames": [
         "coupon-cart-nav"
@@ -420,7 +480,7 @@
       "name": "coupon-cart-nav.css.map",
       "size": 593,
       "chunks": [
-        7
+        8
       ],
       "chunkNames": [
         "coupon-cart-nav"
@@ -434,7 +494,7 @@
       "name": "elevator-pitch-nav.css",
       "size": 463,
       "chunks": [
-        8
+        9
       ],
       "chunkNames": [
         "elevator-pitch-nav"
@@ -446,7 +506,7 @@
       "name": "elevator-pitch-nav.css.map",
       "size": 841,
       "chunks": [
-        8
+        9
       ],
       "chunkNames": [
         "elevator-pitch-nav"
@@ -460,7 +520,7 @@
       "name": "main-nav.css",
       "size": 685,
       "chunks": [
-        10
+        11
       ],
       "chunkNames": [
         "main-nav"
@@ -472,7 +532,7 @@
       "name": "main-nav.css.map",
       "size": 1200,
       "chunks": [
-        10
+        11
       ],
       "chunkNames": [
         "main-nav"
@@ -486,7 +546,7 @@
       "name": "main.css",
       "size": 7625,
       "chunks": [
-        9
+        10
       ],
       "chunkNames": [
         "main"
@@ -498,7 +558,7 @@
       "name": "main.css.map",
       "size": 10236,
       "chunks": [
-        9
+        10
       ],
       "chunkNames": [
         "main"
@@ -510,9 +570,9 @@
     },
     {
       "name": "server.js",
-      "size": 11674,
+      "size": 12248,
       "chunks": [
-        9
+        10
       ],
       "chunkNames": [
         "main"
@@ -522,9 +582,9 @@
     },
     {
       "name": "server.js.map",
-      "size": 28738,
+      "size": 29048,
       "chunks": [
-        9
+        10
       ],
       "chunkNames": [
         "main"
@@ -539,7 +599,7 @@
   "entrypoints": {
     "main": {
       "chunks": [
-        9
+        10
       ],
       "assets": [
         "main.css",
@@ -554,7 +614,7 @@
   "namedChunkGroups": {
     "main": {
       "chunks": [
-        9
+        10
       ],
       "assets": [
         "main.css",
@@ -570,8 +630,21 @@
         6
       ],
       "assets": [
-        "6.015eeec7.js",
-        "6.015eeec7.js.map"
+        "6.4e21ffd8.js",
+        "6.4e21ffd8.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "components-main-site-header-secondary-nav": {
+      "chunks": [
+        7
+      ],
+      "assets": [
+        "components-main-site-header-secondary-nav.css",
+        "7.7e2f5dff.js",
+        "components-main-site-header-secondary-nav.css.map",
+        "7.7e2f5dff.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -600,39 +673,39 @@
     },
     "main-nav": {
       "chunks": [
-        10
+        11
       ],
       "assets": [
         "main-nav.css",
-        "10.b60a0bd7.js",
+        "11.644639b5.js",
         "main-nav.css.map",
-        "10.b60a0bd7.js.map"
+        "11.644639b5.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "elevator-pitch-nav": {
       "chunks": [
-        8
+        9
       ],
       "assets": [
         "elevator-pitch-nav.css",
-        "8.ca2db7c3.js",
+        "9.54bb1b9e.js",
         "elevator-pitch-nav.css.map",
-        "8.ca2db7c3.js.map"
+        "9.54bb1b9e.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "coupon-cart-nav": {
       "chunks": [
-        7
+        8
       ],
       "assets": [
         "coupon-cart-nav.css",
-        "7.3a8edbe0.js",
+        "8.77792da2.js",
         "coupon-cart-nav.css.map",
-        "7.3a8edbe0.js.map"
+        "8.77792da2.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -945,6 +1018,48 @@
       },
       "children": [],
       "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/main-nav/assets/css/menu-stack-icon.css"
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/assets/node/",
+      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "assetsByChunkName": {},
+      "assets": [],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "*"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "logging": {
+        "webpack.buildChunkGraph.visitModules": {
+          "entries": [],
+          "filteredEntries": 2,
+          "debug": false
+        }
+      },
+      "children": [],
+      "name": "mini-css-extract-plugin ../node_modules/css-loader/dist/cjs.js!shared/components/main-site-header/secondary-nav/assets/css/secondary-nav.css"
     },
     {
       "errors": [],
