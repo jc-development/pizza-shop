@@ -1,0 +1,1 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[25],{QaW2:function(e,n,t){"use strict";t.r(n);var a=t("mXGw"),_=t.n(a);n.default=function(e){var n=e.content,t=n.main,a=n.supporting;return _.a.createElement("header",null,_.a.createElement("h6",null,a),_.a.createElement("h1",null,t))}}}]);

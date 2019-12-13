@@ -1,0 +1,1 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[26],{otR4:function(t,e,n){"use strict";n.r(e);var a=n("mXGw"),r=n.n(a);e.default=function(t){var e=t.content,n=e.src,a=e.alt,_=e.figcaption;return r.a.createElement("figure",null,r.a.createElement("img",{src:n,alt:a}),r.a.createElement("figcaption",null,_))}}}]);
