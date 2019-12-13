@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import isActive from '../assets/utils/isActive';
-import MenuStackIcon from './assets/images/MenuStackIcon'
+import MenuStackIcon from './MenuStackIcon'
 
 import './assets/css/main-nav.css';
 

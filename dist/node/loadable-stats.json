@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "fd4ac15892f23ac551a5",
+  "hash": "63728fa1745b4f063b34",
   "publicPath": "/assets/node/",
   "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
   "assetsByChunkName": {
@@ -58,9 +58,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "10.bfba69b0.js",
+      "10.b60a0bd7.js",
       "main-nav.css.map",
-      "10.bfba69b0.js.map"
+      "10.b60a0bd7.js.map"
     ]
   },
   "assets": [
@@ -121,8 +121,8 @@
       "emitted": false
     },
     {
-      "name": "10.bfba69b0.js",
-      "size": 1356,
+      "name": "10.b60a0bd7.js",
+      "size": 1714,
       "chunks": [
         10
       ],
@@ -135,8 +135,8 @@
       "emitted": false
     },
     {
-      "name": "10.bfba69b0.js.map",
-      "size": 4505,
+      "name": "10.b60a0bd7.js.map",
+      "size": 4466,
       "chunks": [
         10
       ],
@@ -510,7 +510,7 @@
     },
     {
       "name": "server.js",
-      "size": 11626,
+      "size": 11674,
       "chunks": [
         9
       ],
@@ -522,7 +522,7 @@
     },
     {
       "name": "server.js.map",
-      "size": 28640,
+      "size": 28738,
       "chunks": [
         9
       ],
@@ -604,9 +604,9 @@
       ],
       "assets": [
         "main-nav.css",
-        "10.bfba69b0.js",
+        "10.b60a0bd7.js",
         "main-nav.css.map",
-        "10.bfba69b0.js.map"
+        "10.b60a0bd7.js.map"
       ],
       "children": {},
       "childAssets": {}
