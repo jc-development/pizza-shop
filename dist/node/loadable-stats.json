@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "35c33e54e63fdd9346f2",
+  "hash": "094d87b6eef18db837bf",
   "publicPath": "/assets/node/",
   "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
   "assetsByChunkName": {
@@ -11,8 +11,8 @@
       "0.43ed3d6d.js.map"
     ],
     "Home": [
-      "1.a59fc7a5.js",
-      "1.a59fc7a5.js.map"
+      "1.79968e79.js",
+      "1.79968e79.js.map"
     ],
     "Image": [
       "2.19e8a76a.js",
@@ -64,9 +64,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "11.644639b5.js",
+      "11.c824af3e.js",
       "main-nav.css.map",
-      "11.644639b5.js.map"
+      "11.c824af3e.js.map"
     ]
   },
   "assets": [
@@ -99,8 +99,8 @@
       "emitted": false
     },
     {
-      "name": "1.a59fc7a5.js",
-      "size": 1375,
+      "name": "1.79968e79.js",
+      "size": 1383,
       "chunks": [
         1
       ],
@@ -113,8 +113,8 @@
       "emitted": false
     },
     {
-      "name": "1.a59fc7a5.js.map",
-      "size": 2331,
+      "name": "1.79968e79.js.map",
+      "size": 2344,
       "chunks": [
         1
       ],
@@ -127,8 +127,8 @@
       "emitted": false
     },
     {
-      "name": "11.644639b5.js",
-      "size": 1714,
+      "name": "11.c824af3e.js",
+      "size": 1862,
       "chunks": [
         11
       ],
@@ -141,8 +141,8 @@
       "emitted": false
     },
     {
-      "name": "11.644639b5.js.map",
-      "size": 4462,
+      "name": "11.c824af3e.js.map",
+      "size": 4922,
       "chunks": [
         11
       ],
@@ -570,7 +570,7 @@
     },
     {
       "name": "server.js",
-      "size": 12248,
+      "size": 13674,
       "chunks": [
         10
       ],
@@ -582,7 +582,7 @@
     },
     {
       "name": "server.js.map",
-      "size": 29048,
+      "size": 32454,
       "chunks": [
         10
       ],
@@ -654,8 +654,8 @@
         1
       ],
       "assets": [
-        "1.a59fc7a5.js",
-        "1.a59fc7a5.js.map"
+        "1.79968e79.js",
+        "1.79968e79.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -677,9 +677,9 @@
       ],
       "assets": [
         "main-nav.css",
-        "11.644639b5.js",
+        "11.c824af3e.js",
         "main-nav.css.map",
-        "11.644639b5.js.map"
+        "11.c824af3e.js.map"
       ],
       "children": {},
       "childAssets": {}

@@ -48,8 +48,8 @@ const Home = props => {
 };
 
 const mapStateToProps = ({ navState }) => {
-  const { activeNav } = navState;
-  return { activeNav };
+  const { activeMainNav } = navState;
+  return { activeMainNav };
 };
 
 export default connect(mapStateToProps, { updateNav })(Home);

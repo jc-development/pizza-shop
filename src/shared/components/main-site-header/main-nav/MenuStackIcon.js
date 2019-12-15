@@ -1,4 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { connect } from 'react-redux';
+import { openSecondaryNav } from '../../../actions/secondaryNavActions';
 import { useMenuStackTL } from './assets/utils/menuStackAnimations';
 
 import './assets/css/menu-stack-icon.css';
@@ -15,8 +17,8 @@ const MenuStackIcon = (props) => {
 
   useEffect(() => {
     menuOpen ? tl.play() : tl.reverse();
+    props.openSecondaryNav(menuOpen);
   }, [menuOpen]);
-
 
   return (
       <svg onClick={ () => setMenuOpen(!menuOpen) } id="secondary-menu-icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
@@ -27,4 +29,9 @@ const MenuStackIcon = (props) => {
   );
 };
 
-export default MenuStackIcon;
+const mapStateToProps = ({ secondaryNavState }) => {
+  const { isOpen } = secondaryNavState;
+  return { isOpen };
+}
+
+export default connect(mapStateToProps, { openSecondaryNav })(MenuStackIcon);
