@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "44e4417729200d5286e8",
+  "hash": "4382206a73cdf6be72ae",
   "publicPath": "/assets/node/",
   "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
   "assetsByChunkName": {
@@ -40,9 +40,9 @@
     ],
     "components-main-site-header-secondary-nav": [
       "components-main-site-header-secondary-nav.css",
-      "7.bd9c643d.js",
+      "7.b8bc3daa.js",
       "components-main-site-header-secondary-nav.css.map",
-      "7.bd9c643d.js.map"
+      "7.b8bc3daa.js.map"
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
@@ -64,9 +64,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "11.7ebd60aa.js",
+      "11.86fd0ae6.js",
       "main-nav.css.map",
-      "11.7ebd60aa.js.map"
+      "11.86fd0ae6.js.map"
     ]
   },
   "assets": [
@@ -127,7 +127,7 @@
       "emitted": false
     },
     {
-      "name": "11.7ebd60aa.js",
+      "name": "11.86fd0ae6.js",
       "size": 1868,
       "chunks": [
         11
@@ -141,7 +141,7 @@
       "emitted": false
     },
     {
-      "name": "11.7ebd60aa.js.map",
+      "name": "11.86fd0ae6.js.map",
       "size": 4937,
       "chunks": [
         11
@@ -295,8 +295,8 @@
       "emitted": false
     },
     {
-      "name": "7.bd9c643d.js",
-      "size": 1432,
+      "name": "7.b8bc3daa.js",
+      "size": 2416,
       "chunks": [
         7
       ],
@@ -309,8 +309,8 @@
       "emitted": false
     },
     {
-      "name": "7.bd9c643d.js.map",
-      "size": 3848,
+      "name": "7.b8bc3daa.js.map",
+      "size": 5817,
       "chunks": [
         7
       ],
@@ -440,7 +440,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css",
-      "size": 689,
+      "size": 794,
       "chunks": [
         7
       ],
@@ -452,7 +452,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css.map",
-      "size": 1169,
+      "size": 1312,
       "chunks": [
         7
       ],
@@ -570,7 +570,7 @@
     },
     {
       "name": "server.js",
-      "size": 13434,
+      "size": 14396,
       "chunks": [
         10
       ],
@@ -582,7 +582,7 @@
     },
     {
       "name": "server.js.map",
-      "size": 32281,
+      "size": 34218,
       "chunks": [
         10
       ],
@@ -642,9 +642,9 @@
       ],
       "assets": [
         "components-main-site-header-secondary-nav.css",
-        "7.bd9c643d.js",
+        "7.b8bc3daa.js",
         "components-main-site-header-secondary-nav.css.map",
-        "7.bd9c643d.js.map"
+        "7.b8bc3daa.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -677,9 +677,9 @@
       ],
       "assets": [
         "main-nav.css",
-        "11.7ebd60aa.js",
+        "11.86fd0ae6.js",
         "main-nav.css.map",
-        "11.7ebd60aa.js.map"
+        "11.86fd0ae6.js.map"
       ],
       "children": {},
       "childAssets": {}
