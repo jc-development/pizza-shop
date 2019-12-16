@@ -11,4 +11,5 @@ svg#secondary-menu-icon {
   stroke-miterlimit: 8;
   stroke-width: 4px;
   transform-origin: 25% 0;
+  transition: stroke 1s;
 }

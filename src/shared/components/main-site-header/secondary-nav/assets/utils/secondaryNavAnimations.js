@@ -8,8 +8,8 @@ export const useSecondaryMenuTL = (menuRef) => {
     tl
       .to(
         menuRef.current,
-        0.5,
-        { top: '0%', onComplete: () => console.log('onComplete') }
+        0.25,
+        { top: '0%', autoAlpha: 1, onComplete: () => console.log('onComplete') }
       )
   }, []);
 

@@ -64,9 +64,7 @@ const SecondaryNav = props => {
 
   const listGroups = (groupTitleArr, groupItemsArr) => groupTitleArr.map( (groupTitle, t) => <dl key={t}><dt>{groupTitle}</dt>{listGroupItems(groupTitle, groupItemsArr) }</dl> );
 
-  const handleHover = (item) => {
-    props.loadSecondaryNavLinkVideo(item);
-  }
+  const handleHover = (item) => props.loadSecondaryNavLinkVideo(item);
 
   const listGroupItems = (title, arr) => arr.map( (items, i) => items.map( (item, i) => <dd key={i}><Link onMouseEnter={() => handleHover( hyphenate(item) )} onMouseLeave={() => handleHover(null)} to={ `\/${hyphenate(title)}\/${hyphenate(item)}` }>{item}</Link></dd>) );
 

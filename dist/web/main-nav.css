@@ -11,6 +11,7 @@ svg#secondary-menu-icon {
   stroke-miterlimit: 8;
   stroke-width: 4px;
   transform-origin: 25% 0;
+  transition: stroke 1s;
 }
 
 #main-nav ul {
@@ -36,6 +37,6 @@ svg#secondary-menu-icon {
   font-weight: 400;
   text-decoration: none;
   text-transform: uppercase;
-  transition: font-weight 1s;
+  transition: font-weight, color 1s;
 }
 
