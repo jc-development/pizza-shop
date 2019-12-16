@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "4382206a73cdf6be72ae",
+  "hash": "b688aeaf209ba542c934",
   "publicPath": "/assets/node/",
   "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
   "assetsByChunkName": {
@@ -35,8 +35,8 @@
       "5.3623facd.js.map"
     ],
     "components-main-site-header": [
-      "6.4e21ffd8.js",
-      "6.4e21ffd8.js.map"
+      "6.e96e11da.js",
+      "6.e96e11da.js.map"
     ],
     "components-main-site-header-secondary-nav": [
       "components-main-site-header-secondary-nav.css",
@@ -46,15 +46,15 @@
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
-      "8.77792da2.js",
+      "8.adf478fd.js",
       "coupon-cart-nav.css.map",
-      "8.77792da2.js.map"
+      "8.adf478fd.js.map"
     ],
     "elevator-pitch-nav": [
       "elevator-pitch-nav.css",
-      "9.54bb1b9e.js",
+      "9.24510b40.js",
       "elevator-pitch-nav.css.map",
-      "9.54bb1b9e.js.map"
+      "9.24510b40.js.map"
     ],
     "main": [
       "main.css",
@@ -64,9 +64,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "11.86fd0ae6.js",
+      "11.0d17e79d.js",
       "main-nav.css.map",
-      "11.86fd0ae6.js.map"
+      "11.0d17e79d.js.map"
     ]
   },
   "assets": [
@@ -127,8 +127,8 @@
       "emitted": false
     },
     {
-      "name": "11.86fd0ae6.js",
-      "size": 1868,
+      "name": "11.0d17e79d.js",
+      "size": 1893,
       "chunks": [
         11
       ],
@@ -141,8 +141,8 @@
       "emitted": false
     },
     {
-      "name": "11.86fd0ae6.js.map",
-      "size": 4937,
+      "name": "11.0d17e79d.js.map",
+      "size": 5084,
       "chunks": [
         11
       ],
@@ -267,8 +267,8 @@
       "emitted": false
     },
     {
-      "name": "6.4e21ffd8.js",
-      "size": 1971,
+      "name": "6.e96e11da.js",
+      "size": 2065,
       "chunks": [
         6
       ],
@@ -281,8 +281,8 @@
       "emitted": false
     },
     {
-      "name": "6.4e21ffd8.js.map",
-      "size": 1793,
+      "name": "6.e96e11da.js.map",
+      "size": 2069,
       "chunks": [
         6
       ],
@@ -323,8 +323,8 @@
       "emitted": false
     },
     {
-      "name": "8.77792da2.js",
-      "size": 689,
+      "name": "8.adf478fd.js",
+      "size": 723,
       "chunks": [
         8
       ],
@@ -337,8 +337,8 @@
       "emitted": false
     },
     {
-      "name": "8.77792da2.js.map",
-      "size": 1484,
+      "name": "8.adf478fd.js.map",
+      "size": 1555,
       "chunks": [
         8
       ],
@@ -359,8 +359,8 @@
       "emitted": false
     },
     {
-      "name": "9.54bb1b9e.js",
-      "size": 1417,
+      "name": "9.24510b40.js",
+      "size": 1454,
       "chunks": [
         9
       ],
@@ -373,8 +373,8 @@
       "emitted": false
     },
     {
-      "name": "9.54bb1b9e.js.map",
-      "size": 3528,
+      "name": "9.24510b40.js.map",
+      "size": 3607,
       "chunks": [
         9
       ],
@@ -518,7 +518,7 @@
     },
     {
       "name": "main-nav.css",
-      "size": 685,
+      "size": 681,
       "chunks": [
         11
       ],
@@ -530,7 +530,7 @@
     },
     {
       "name": "main-nav.css.map",
-      "size": 1200,
+      "size": 1196,
       "chunks": [
         11
       ],
@@ -544,7 +544,7 @@
     },
     {
       "name": "main.css",
-      "size": 7625,
+      "size": 7745,
       "chunks": [
         10
       ],
@@ -556,7 +556,7 @@
     },
     {
       "name": "main.css.map",
-      "size": 10236,
+      "size": 10418,
       "chunks": [
         10
       ],
@@ -630,8 +630,8 @@
         6
       ],
       "assets": [
-        "6.4e21ffd8.js",
-        "6.4e21ffd8.js.map"
+        "6.e96e11da.js",
+        "6.e96e11da.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -677,9 +677,9 @@
       ],
       "assets": [
         "main-nav.css",
-        "11.86fd0ae6.js",
+        "11.0d17e79d.js",
         "main-nav.css.map",
-        "11.86fd0ae6.js.map"
+        "11.0d17e79d.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -690,9 +690,9 @@
       ],
       "assets": [
         "elevator-pitch-nav.css",
-        "9.54bb1b9e.js",
+        "9.24510b40.js",
         "elevator-pitch-nav.css.map",
-        "9.54bb1b9e.js.map"
+        "9.24510b40.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -703,9 +703,9 @@
       ],
       "assets": [
         "coupon-cart-nav.css",
-        "8.77792da2.js",
+        "8.adf478fd.js",
         "coupon-cart-nav.css.map",
-        "8.77792da2.js.map"
+        "8.adf478fd.js.map"
       ],
       "children": {},
       "childAssets": {}

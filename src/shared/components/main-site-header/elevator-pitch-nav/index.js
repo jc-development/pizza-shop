@@ -43,7 +43,7 @@ const ElevatorPitchNav = props => {
   const passLink = passedLink => props.activeMainNav !== null ? isActive({ linkName: passedLink, activeLinkRedux: props.activeMainNav }) : null;
 
   return (
-    <span className="main-header-middle">
+    <span className={ props.isOpen ? 'main-header-middle hidden' : 'main-header-middle' }>
       <h2>{elevatorPitch}</h2>
       <nav>
         <ul className="thirds-equal">

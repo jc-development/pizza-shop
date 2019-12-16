@@ -22,9 +22,9 @@ const MenuStackIcon = (props) => {
 
   return (
       <svg onClick={ () => setMenuOpen(!menuOpen) } id="secondary-menu-icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
-      <line ref={ topLineRef } className="hamburger-line" y1="5" x2="28" y2="5" />
-      <line ref={ middleLineRef } className="hamburger-line" y1="12" x2="28" y2="12" />
-      <line ref={ bottomLineRef } className="hamburger-line" y1="19" x2="28" y2="19" />
+      <line ref={ topLineRef } className={props.isOpen ? 'stack-line black-stroke' : 'stack-line'} y1="5" x2="28" y2="5" />
+      <line ref={ middleLineRef } className={props.isOpen ? 'stack-line black-stroke' : 'stack-line'} y1="12" x2="28" y2="12" />
+      <line ref={ bottomLineRef } className={props.isOpen ? 'stack-line black-stroke' : 'stack-line'} y1="19" x2="28" y2="19" />
     </svg>
   );
 };

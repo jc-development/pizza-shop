@@ -9,7 +9,7 @@ const CouponCartNav = props => {
   const passLink = passedLink => props.activeMainNav !== null ? isActive({ linkName: passedLink, activeLinkRedux: props.activeMainNav }) : null;
 
   return (
-    <nav className="main-header-end">
+    <nav className={props.isOpen ? 'main-header-end hidden' : 'main-header-end'}>
       <ul>
         <li><Link to="/coupons" className={ passLink('coupons') }>coupons</Link></li>
         <li><Link to="/cart" className={ passLink('cart') }>cart</Link></li>

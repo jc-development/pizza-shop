@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "c6f5db06f18564fcac2f",
+  "hash": "20585928a1167f33b414",
   "publicPath": "/assets/web/",
   "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
   "assetsByChunkName": {
@@ -87,8 +87,8 @@
       "19.f7c666f8.js.map"
     ],
     "runtime": [
-      "runtime.c6f5db06f18564fcac2f.js",
-      "runtime.c6f5db06f18564fcac2f.js.map"
+      "runtime.20585928a1167f33b414.js",
+      "runtime.20585928a1167f33b414.js.map"
     ],
     "Home": [
       "21.ba8cfda7.js",
@@ -131,8 +131,8 @@
       "29.e03978ca.js.map"
     ],
     "components-main-site-header": [
-      "30.35ca3b1d.js",
-      "30.35ca3b1d.js.map"
+      "30.2623b684.js",
+      "30.2623b684.js.map"
     ],
     "components-main-site-header-secondary-nav": [
       "components-main-site-header-secondary-nav.css",
@@ -142,15 +142,15 @@
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
-      "32.5c7b7b49.js",
+      "32.6a694217.js",
       "coupon-cart-nav.css.map",
-      "32.5c7b7b49.js.map"
+      "32.6a694217.js.map"
     ],
     "elevator-pitch-nav": [
       "elevator-pitch-nav.css",
-      "33.77b5457a.js",
+      "33.78359a42.js",
       "elevator-pitch-nav.css.map",
-      "33.77b5457a.js.map"
+      "33.78359a42.js.map"
     ],
     "home": [
       "34.ba81348b.js",
@@ -164,9 +164,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "36.0ee69152.js",
+      "36.c8ed2794.js",
       "main-nav.css.map",
-      "36.0ee69152.js.map"
+      "36.c8ed2794.js.map"
     ],
     "npm.gud": [
       "37.e50c39f2.js",
@@ -923,8 +923,8 @@
       "emitted": false
     },
     {
-      "name": "30.35ca3b1d.js",
-      "size": 2101,
+      "name": "30.2623b684.js",
+      "size": 2195,
       "chunks": [
         30
       ],
@@ -937,8 +937,8 @@
       "emitted": false
     },
     {
-      "name": "30.35ca3b1d.js.map",
-      "size": 1794,
+      "name": "30.2623b684.js.map",
+      "size": 2070,
       "chunks": [
         30
       ],
@@ -979,8 +979,8 @@
       "emitted": false
     },
     {
-      "name": "32.5c7b7b49.js",
-      "size": 632,
+      "name": "32.6a694217.js",
+      "size": 666,
       "chunks": [
         32
       ],
@@ -993,8 +993,8 @@
       "emitted": false
     },
     {
-      "name": "32.5c7b7b49.js.map",
-      "size": 1227,
+      "name": "32.6a694217.js.map",
+      "size": 1298,
       "chunks": [
         32
       ],
@@ -1007,8 +1007,8 @@
       "emitted": false
     },
     {
-      "name": "33.77b5457a.js",
-      "size": 1357,
+      "name": "33.78359a42.js",
+      "size": 1394,
       "chunks": [
         33
       ],
@@ -1021,8 +1021,8 @@
       "emitted": false
     },
     {
-      "name": "33.77b5457a.js.map",
-      "size": 3270,
+      "name": "33.78359a42.js.map",
+      "size": 3348,
       "chunks": [
         33
       ],
@@ -1091,8 +1091,8 @@
       "emitted": false
     },
     {
-      "name": "36.0ee69152.js",
-      "size": 1797,
+      "name": "36.c8ed2794.js",
+      "size": 1822,
       "chunks": [
         36
       ],
@@ -1105,8 +1105,8 @@
       "emitted": false
     },
     {
-      "name": "36.0ee69152.js.map",
-      "size": 4675,
+      "name": "36.c8ed2794.js.map",
+      "size": 4784,
       "chunks": [
         36
       ],
@@ -1890,7 +1890,7 @@
     },
     {
       "name": "main-nav.css",
-      "size": 685,
+      "size": 681,
       "chunks": [
         36
       ],
@@ -1902,7 +1902,7 @@
     },
     {
       "name": "main-nav.css.map",
-      "size": 1200,
+      "size": 1196,
       "chunks": [
         36
       ],
@@ -1916,7 +1916,7 @@
     },
     {
       "name": "main.css",
-      "size": 7624,
+      "size": 7744,
       "chunks": [
         35
       ],
@@ -1928,7 +1928,7 @@
     },
     {
       "name": "main.css.map",
-      "size": 10235,
+      "size": 10417,
       "chunks": [
         35
       ],
@@ -1941,7 +1941,7 @@
       "emitted": false
     },
     {
-      "name": "runtime.c6f5db06f18564fcac2f.js",
+      "name": "runtime.20585928a1167f33b414.js",
       "size": 3784,
       "chunks": [
         20
@@ -1955,7 +1955,7 @@
       "emitted": false
     },
     {
-      "name": "runtime.c6f5db06f18564fcac2f.js.map",
+      "name": "runtime.20585928a1167f33b414.js.map",
       "size": 17088,
       "chunks": [
         20
@@ -2009,8 +2009,8 @@
         35
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "14.418bf8ff.js",
@@ -2109,8 +2109,8 @@
         34
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2182,8 +2182,8 @@
         52
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2268,8 +2268,8 @@
         35
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "14.418bf8ff.js",
@@ -2368,8 +2368,8 @@
         34
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2441,8 +2441,8 @@
         52
       ],
       "assets": [
-        "runtime.c6f5db06f18564fcac2f.js",
-        "runtime.c6f5db06f18564fcac2f.js.map",
+        "runtime.20585928a1167f33b414.js",
+        "runtime.20585928a1167f33b414.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2495,8 +2495,8 @@
       "assets": [
         "0.d85cf689.js",
         "0.d85cf689.js.map",
-        "30.35ca3b1d.js",
-        "30.35ca3b1d.js.map"
+        "30.2623b684.js",
+        "30.2623b684.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2591,9 +2591,9 @@
         "4.5deb5e70.js",
         "4.5deb5e70.js.map",
         "main-nav.css",
-        "36.0ee69152.js",
+        "36.c8ed2794.js",
         "main-nav.css.map",
-        "36.0ee69152.js.map"
+        "36.c8ed2794.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2607,9 +2607,9 @@
         "4.5deb5e70.js",
         "4.5deb5e70.js.map",
         "elevator-pitch-nav.css",
-        "33.77b5457a.js",
+        "33.78359a42.js",
         "elevator-pitch-nav.css.map",
-        "33.77b5457a.js.map"
+        "33.78359a42.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2623,9 +2623,9 @@
         "4.5deb5e70.js",
         "4.5deb5e70.js.map",
         "coupon-cart-nav.css",
-        "32.5c7b7b49.js",
+        "32.6a694217.js",
         "coupon-cart-nav.css.map",
-        "32.5c7b7b49.js.map"
+        "32.6a694217.js.map"
       ],
       "children": {},
       "childAssets": {}

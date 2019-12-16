@@ -18,16 +18,17 @@ const MainSiteHeader = props => {
 
   return (
     <header className="fixed-100w thirds-equal z-index-5">
-      <MainNav activeMainNav={activeMainNav} />
-      <ElevatorPitchNav activeMainNav={activeMainNav} />
-      <CouponCartNav activeMainNav={activeMainNav} />
+      <MainNav activeMainNav={activeMainNav} isOpen={props.isOpen} />
+      <ElevatorPitchNav activeMainNav={activeMainNav} isOpen={props.isOpen} />
+      <CouponCartNav activeMainNav={activeMainNav} isOpen={props.isOpen} />
     </header>
   );
 }
 
-const mapStateToProps = ({ navState }) => {
+const mapStateToProps = ({ navState, secondaryNavState }) => {
   const { activeMainNav } = navState;
-  return { activeMainNav };
+  const { isOpen } = secondaryNavState;
+  return { activeMainNav, isOpen };
 };
 
 export default connect(mapStateToProps)(MainSiteHeader);

@@ -12,11 +12,13 @@ const MainNav = (props) => {
   return (
     <nav id="main-nav">
       <ul>
-        <li><Link to="/" className={ passLink('home') }>Pizza's<br/>Pizzeria</Link></li>
-        <li><MenuStackIcon /></li>
+        <li><Link to="/" className={props.isOpen ? 'black' : null} >Pizza's<br/>Pizzeria</Link></li>
+        <li><MenuStackIcon isOpen={props.isOpen} /></li>
       </ul>
     </nav>
   );
 };
 
 export default MainNav;
+
+// { passLink('home') }

@@ -5,9 +5,9 @@ svg#secondary-menu-icon {
   /* transform: translate(0, 0); */
 }
 
-.hamburger-line {
+.stack-line {
   fill: #fff;
-  stroke: #000;
+  stroke: #fff;
   stroke-miterlimit: 8;
   stroke-width: 4px;
   transform-origin: 25% 0;
