@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "094d87b6eef18db837bf",
+  "hash": "44e4417729200d5286e8",
   "publicPath": "/assets/node/",
-  "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+  "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
   "assetsByChunkName": {
     "HeroTitle": [
       "0.43ed3d6d.js",
@@ -40,9 +40,9 @@
     ],
     "components-main-site-header-secondary-nav": [
       "components-main-site-header-secondary-nav.css",
-      "7.7e2f5dff.js",
+      "7.bd9c643d.js",
       "components-main-site-header-secondary-nav.css.map",
-      "7.7e2f5dff.js.map"
+      "7.bd9c643d.js.map"
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
@@ -64,9 +64,9 @@
     ],
     "main-nav": [
       "main-nav.css",
-      "11.c824af3e.js",
+      "11.7ebd60aa.js",
       "main-nav.css.map",
-      "11.c824af3e.js.map"
+      "11.7ebd60aa.js.map"
     ]
   },
   "assets": [
@@ -127,8 +127,8 @@
       "emitted": false
     },
     {
-      "name": "11.c824af3e.js",
-      "size": 1862,
+      "name": "11.7ebd60aa.js",
+      "size": 1868,
       "chunks": [
         11
       ],
@@ -141,8 +141,8 @@
       "emitted": false
     },
     {
-      "name": "11.c824af3e.js.map",
-      "size": 4922,
+      "name": "11.7ebd60aa.js.map",
+      "size": 4937,
       "chunks": [
         11
       ],
@@ -295,8 +295,8 @@
       "emitted": false
     },
     {
-      "name": "7.7e2f5dff.js",
-      "size": 969,
+      "name": "7.bd9c643d.js",
+      "size": 1432,
       "chunks": [
         7
       ],
@@ -309,8 +309,8 @@
       "emitted": false
     },
     {
-      "name": "7.7e2f5dff.js.map",
-      "size": 2318,
+      "name": "7.bd9c643d.js.map",
+      "size": 3848,
       "chunks": [
         7
       ],
@@ -440,7 +440,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css",
-      "size": 607,
+      "size": 689,
       "chunks": [
         7
       ],
@@ -452,7 +452,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css.map",
-      "size": 1061,
+      "size": 1169,
       "chunks": [
         7
       ],
@@ -570,7 +570,7 @@
     },
     {
       "name": "server.js",
-      "size": 13674,
+      "size": 13434,
       "chunks": [
         10
       ],
@@ -582,7 +582,7 @@
     },
     {
       "name": "server.js.map",
-      "size": 32454,
+      "size": 32281,
       "chunks": [
         10
       ],
@@ -642,9 +642,9 @@
       ],
       "assets": [
         "components-main-site-header-secondary-nav.css",
-        "7.7e2f5dff.js",
+        "7.bd9c643d.js",
         "components-main-site-header-secondary-nav.css.map",
-        "7.7e2f5dff.js.map"
+        "7.bd9c643d.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -677,9 +677,9 @@
       ],
       "assets": [
         "main-nav.css",
-        "11.c824af3e.js",
+        "11.7ebd60aa.js",
         "main-nav.css.map",
-        "11.c824af3e.js.map"
+        "11.7ebd60aa.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -771,7 +771,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -813,7 +813,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -855,7 +855,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -897,7 +897,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -939,7 +939,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -981,7 +981,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -1023,7 +1023,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -1065,7 +1065,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -1107,7 +1107,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/node/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/node/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/node/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,

@@ -11,7 +11,7 @@ const MenuStackIcon = (props) => {
   const middleLineRef = useRef();
   const bottomLineRef = useRef();
 
-  const [ menuOpen, setMenuOpen ] = useState(false);
+  const [ menuOpen, setMenuOpen ] = useState(props.isOpen);
 
   const tl = useMenuStackTL({ topLineRef, middleLineRef, bottomLineRef });
 

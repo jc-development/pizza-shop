@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "7cde4108e3fb01e92109",
+  "hash": "eb5a205a21cd8d79d8c9",
   "publicPath": "/assets/web/",
-  "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+  "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
   "assetsByChunkName": {
     "npm.babel": [
       "0.d85cf689.js",
@@ -30,73 +30,73 @@
       "5.efd55a45.js",
       "5.efd55a45.js.map"
     ],
+    "npm.gsap": [
+      "6.301afea9.js",
+      "6.301afea9.js.map"
+    ],
     "npm.hoist-non-react-statics": [
-      "6.69871d74.js",
-      "6.69871d74.js.map"
+      "7.0695a298.js",
+      "7.0695a298.js.map"
     ],
     "npm.invariant": [
-      "7.30a1a816.js",
-      "7.30a1a816.js.map"
+      "8.645dd7a1.js",
+      "8.645dd7a1.js.map"
     ],
     "npm.object-assign": [
-      "8.87a9614e.js",
-      "8.87a9614e.js.map"
+      "9.cc3a0633.js",
+      "9.cc3a0633.js.map"
     ],
     "npm.prop-types": [
-      "9.06a07599.js",
-      "9.06a07599.js.map"
+      "10.fa30a362.js",
+      "10.fa30a362.js.map"
     ],
     "npm.react": [
-      "10.48b98c30.js",
-      "10.48b98c30.js.map"
+      "11.78df443c.js",
+      "11.78df443c.js.map"
     ],
     "npm.react-dom": [
-      "11.0fa773ac.js",
-      "11.0fa773ac.js.map"
+      "12.3cbf8ed5.js",
+      "12.3cbf8ed5.js.map"
     ],
     "npm.react-is": [
-      "12.942e931b.js",
-      "12.942e931b.js.map"
+      "13.4c882d33.js",
+      "13.4c882d33.js.map"
     ],
     "npm.react-redux": [
-      "13.11800dfc.js",
-      "13.11800dfc.js.map"
+      "14.418bf8ff.js",
+      "14.418bf8ff.js.map"
     ],
     "npm.redux": [
-      "14.b91719d1.js",
-      "14.b91719d1.js.map"
+      "15.5debbed6.js",
+      "15.5debbed6.js.map"
     ],
     "npm.scheduler": [
-      "15.18456105.js",
-      "15.18456105.js.map"
+      "16.2fe3c723.js",
+      "16.2fe3c723.js.map"
     ],
     "npm.shallowequal": [
-      "16.32396c33.js",
-      "16.32396c33.js.map"
+      "17.368de604.js",
+      "17.368de604.js.map"
     ],
     "npm.symbol-observable": [
-      "17.cf7d1a17.js",
-      "17.cf7d1a17.js.map"
+      "18.a65e3dd3.js",
+      "18.a65e3dd3.js.map"
     ],
     "npm.webpack": [
-      "18.e169ac1f.js",
-      "18.e169ac1f.js.map"
+      "19.f7c666f8.js",
+      "19.f7c666f8.js.map"
     ],
     "runtime": [
-      "runtime.7cde4108e3fb01e92109.js",
-      "runtime.7cde4108e3fb01e92109.js.map"
+      "runtime.eb5a205a21cd8d79d8c9.js",
+      "runtime.eb5a205a21cd8d79d8c9.js.map"
     ],
     "Home": [
-      "20.f8941d4f.js",
-      "20.f8941d4f.js.map"
+      "21.ba8cfda7.js",
+      "21.ba8cfda7.js.map"
     ],
     "main~pizzas": [
-      "21.90f1104d.js",
-      "21.90f1104d.js.map"
-    ],
-    "npm.gsap": [
-      "22.af52182d.js",
-      "22.af52182d.js.map"
+      "22.aec2af4f.js",
+      "22.aec2af4f.js.map"
     ],
     "npm.loadable": [
       "23.218ea44e.js",
@@ -115,8 +115,8 @@
       "26.42de43e1.js.map"
     ],
     "Pizzas": [
-      "27.47c6785d.js",
-      "27.47c6785d.js.map"
+      "27.84863f00.js",
+      "27.84863f00.js.map"
     ],
     "Video": [
       "Video.css",
@@ -126,19 +126,19 @@
     ],
     "components-hero": [
       "components-hero.css",
-      "29.132be3a4.js",
+      "29.e03978ca.js",
       "components-hero.css.map",
-      "29.132be3a4.js.map"
+      "29.e03978ca.js.map"
     ],
     "components-main-site-header": [
-      "30.a1b7b0a7.js",
-      "30.a1b7b0a7.js.map"
+      "30.35ca3b1d.js",
+      "30.35ca3b1d.js.map"
     ],
     "components-main-site-header-secondary-nav": [
       "components-main-site-header-secondary-nav.css",
-      "31.077f0c6a.js",
+      "31.aba4c2f5.js",
       "components-main-site-header-secondary-nav.css.map",
-      "31.077f0c6a.js.map"
+      "31.aba4c2f5.js.map"
     ],
     "coupon-cart-nav": [
       "coupon-cart-nav.css",
@@ -153,20 +153,20 @@
       "33.77b5457a.js.map"
     ],
     "home": [
-      "34.6cda5e35.js",
-      "34.6cda5e35.js.map"
+      "34.ba81348b.js",
+      "34.ba81348b.js.map"
     ],
     "main": [
       "main.css",
-      "35.b285037d.js",
+      "35.26469eaf.js",
       "main.css.map",
-      "35.b285037d.js.map"
+      "35.26469eaf.js.map"
     ],
     "main-nav": [
       "main-nav.css",
-      "36.fca8bb99.js",
+      "36.78a38a81.js",
       "main-nav.css.map",
-      "36.fca8bb99.js.map"
+      "36.78a38a81.js.map"
     ],
     "npm.gud": [
       "37.e50c39f2.js",
@@ -229,8 +229,8 @@
       "51.cb0f7f71.js.map"
     ],
     "pizzas": [
-      "52.a13c820f.js",
-      "52.a13c820f.js.map"
+      "52.8bc05f9b.js",
+      "52.8bc05f9b.js.map"
     ]
   },
   "assets": [
@@ -291,10 +291,38 @@
       "emitted": false
     },
     {
-      "name": "10.48b98c30.js",
-      "size": 6539,
+      "name": "10.fa30a362.js",
+      "size": 885,
       "chunks": [
         10
+      ],
+      "chunkNames": [
+        "npm.prop-types"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "10.fa30a362.js.map",
+      "size": 4107,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "npm.prop-types"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "11.78df443c.js",
+      "size": 6539,
+      "chunks": [
+        11
       ],
       "chunkNames": [
         "npm.react"
@@ -305,7 +333,7 @@
       "emitted": false
     },
     {
-      "name": "10.48b98c30.js.LICENSE",
+      "name": "11.78df443c.js.LICENSE",
       "size": 243,
       "chunks": [],
       "chunkNames": [],
@@ -313,10 +341,10 @@
       "emitted": false
     },
     {
-      "name": "10.48b98c30.js.map",
+      "name": "11.78df443c.js.map",
       "size": 16341,
       "chunks": [
-        10
+        11
       ],
       "chunkNames": [
         "npm.react"
@@ -327,10 +355,10 @@
       "emitted": false
     },
     {
-      "name": "11.0fa773ac.js",
+      "name": "12.3cbf8ed5.js",
       "size": 117526,
       "chunks": [
-        11
+        12
       ],
       "chunkNames": [
         "npm.react-dom"
@@ -341,7 +369,7 @@
       "emitted": false
     },
     {
-      "name": "11.0fa773ac.js.LICENSE",
+      "name": "12.3cbf8ed5.js.LICENSE",
       "size": 247,
       "chunks": [],
       "chunkNames": [],
@@ -349,10 +377,10 @@
       "emitted": false
     },
     {
-      "name": "11.0fa773ac.js.map",
+      "name": "12.3cbf8ed5.js.map",
       "size": 282758,
       "chunks": [
-        11
+        12
       ],
       "chunkNames": [
         "npm.react-dom"
@@ -363,10 +391,10 @@
       "emitted": false
     },
     {
-      "name": "12.942e931b.js",
+      "name": "13.4c882d33.js",
       "size": 2353,
       "chunks": [
-        12
+        13
       ],
       "chunkNames": [
         "npm.react-is"
@@ -377,7 +405,7 @@
       "emitted": false
     },
     {
-      "name": "12.942e931b.js.LICENSE",
+      "name": "13.4c882d33.js.LICENSE",
       "size": 246,
       "chunks": [],
       "chunkNames": [],
@@ -385,10 +413,10 @@
       "emitted": false
     },
     {
-      "name": "12.942e931b.js.map",
+      "name": "13.4c882d33.js.map",
       "size": 5927,
       "chunks": [
-        12
+        13
       ],
       "chunkNames": [
         "npm.react-is"
@@ -399,10 +427,10 @@
       "emitted": false
     },
     {
-      "name": "13.11800dfc.js",
+      "name": "14.418bf8ff.js",
       "size": 10041,
       "chunks": [
-        13
+        14
       ],
       "chunkNames": [
         "npm.react-redux"
@@ -413,10 +441,10 @@
       "emitted": false
     },
     {
-      "name": "13.11800dfc.js.map",
+      "name": "14.418bf8ff.js.map",
       "size": 63971,
       "chunks": [
-        13
+        14
       ],
       "chunkNames": [
         "npm.react-redux"
@@ -427,10 +455,10 @@
       "emitted": false
     },
     {
-      "name": "14.b91719d1.js",
+      "name": "15.5debbed6.js",
       "size": 6413,
       "chunks": [
-        14
+        15
       ],
       "chunkNames": [
         "npm.redux"
@@ -441,10 +469,10 @@
       "emitted": false
     },
     {
-      "name": "14.b91719d1.js.map",
+      "name": "15.5debbed6.js.map",
       "size": 31245,
       "chunks": [
-        14
+        15
       ],
       "chunkNames": [
         "npm.redux"
@@ -455,10 +483,10 @@
       "emitted": false
     },
     {
-      "name": "15.18456105.js",
+      "name": "16.2fe3c723.js",
       "size": 4884,
       "chunks": [
-        15
+        16
       ],
       "chunkNames": [
         "npm.scheduler"
@@ -469,7 +497,7 @@
       "emitted": false
     },
     {
-      "name": "15.18456105.js.LICENSE",
+      "name": "16.2fe3c723.js.LICENSE",
       "size": 246,
       "chunks": [],
       "chunkNames": [],
@@ -477,10 +505,10 @@
       "emitted": false
     },
     {
-      "name": "15.18456105.js.map",
+      "name": "16.2fe3c723.js.map",
       "size": 12103,
       "chunks": [
-        15
+        16
       ],
       "chunkNames": [
         "npm.scheduler"
@@ -491,10 +519,10 @@
       "emitted": false
     },
     {
-      "name": "16.32396c33.js",
+      "name": "17.368de604.js",
       "size": 529,
       "chunks": [
-        16
+        17
       ],
       "chunkNames": [
         "npm.shallowequal"
@@ -505,10 +533,10 @@
       "emitted": false
     },
     {
-      "name": "16.32396c33.js.map",
+      "name": "17.368de604.js.map",
       "size": 1988,
       "chunks": [
-        16
+        17
       ],
       "chunkNames": [
         "npm.shallowequal"
@@ -519,10 +547,10 @@
       "emitted": false
     },
     {
-      "name": "17.cf7d1a17.js",
+      "name": "18.a65e3dd3.js",
       "size": 510,
       "chunks": [
-        17
+        18
       ],
       "chunkNames": [
         "npm.symbol-observable"
@@ -533,10 +561,10 @@
       "emitted": false
     },
     {
-      "name": "17.cf7d1a17.js.map",
+      "name": "18.a65e3dd3.js.map",
       "size": 1402,
       "chunks": [
-        17
+        18
       ],
       "chunkNames": [
         "npm.symbol-observable"
@@ -547,10 +575,10 @@
       "emitted": false
     },
     {
-      "name": "18.e169ac1f.js",
+      "name": "19.f7c666f8.js",
       "size": 893,
       "chunks": [
-        18
+        19
       ],
       "chunkNames": [
         "npm.webpack"
@@ -561,10 +589,10 @@
       "emitted": false
     },
     {
-      "name": "18.e169ac1f.js.map",
+      "name": "19.f7c666f8.js.map",
       "size": 2929,
       "chunks": [
-        18
+        19
       ],
       "chunkNames": [
         "npm.webpack"
@@ -603,10 +631,10 @@
       "emitted": false
     },
     {
-      "name": "20.f8941d4f.js",
+      "name": "21.ba8cfda7.js",
       "size": 1423,
       "chunks": [
-        20
+        21
       ],
       "chunkNames": [
         "Home"
@@ -617,10 +645,10 @@
       "emitted": false
     },
     {
-      "name": "20.f8941d4f.js.map",
+      "name": "21.ba8cfda7.js.map",
       "size": 2345,
       "chunks": [
-        20
+        21
       ],
       "chunkNames": [
         "Home"
@@ -631,10 +659,10 @@
       "emitted": false
     },
     {
-      "name": "21.90f1104d.js",
+      "name": "22.aec2af4f.js",
       "size": 383,
       "chunks": [
-        21
+        22
       ],
       "chunkNames": [
         "main~pizzas"
@@ -645,49 +673,13 @@
       "emitted": false
     },
     {
-      "name": "21.90f1104d.js.map",
+      "name": "22.aec2af4f.js.map",
       "size": 643,
       "chunks": [
-        21
+        22
       ],
       "chunkNames": [
         "main~pizzas"
-      ],
-      "info": {
-        "development": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "22.af52182d.js",
-      "size": 160288,
-      "chunks": [
-        22
-      ],
-      "chunkNames": [
-        "npm.gsap"
-      ],
-      "info": {
-        "immutable": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "22.af52182d.js.LICENSE",
-      "size": 4155,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {},
-      "emitted": false
-    },
-    {
-      "name": "22.af52182d.js.map",
-      "size": 813917,
-      "chunks": [
-        22
-      ],
-      "chunkNames": [
-        "npm.gsap"
       ],
       "info": {
         "development": true
@@ -807,11 +799,11 @@
       "emitted": false
     },
     {
-      "name": "27.47c6785d.js",
+      "name": "27.84863f00.js",
       "size": 1480,
       "chunks": [
         27,
-        16,
+        17,
         52
       ],
       "chunkNames": [
@@ -823,11 +815,11 @@
       "emitted": false
     },
     {
-      "name": "27.47c6785d.js.map",
+      "name": "27.84863f00.js.map",
       "size": 3509,
       "chunks": [
         27,
-        16,
+        17,
         52
       ],
       "chunkNames": [
@@ -875,8 +867,8 @@
       "emitted": false
     },
     {
-      "name": "29.132be3a4.js",
-      "size": 1915,
+      "name": "29.e03978ca.js",
+      "size": 1914,
       "chunks": [
         29
       ],
@@ -889,7 +881,7 @@
       "emitted": false
     },
     {
-      "name": "29.132be3a4.js.map",
+      "name": "29.e03978ca.js.map",
       "size": 1462,
       "chunks": [
         29
@@ -931,8 +923,8 @@
       "emitted": false
     },
     {
-      "name": "30.a1b7b0a7.js",
-      "size": 2102,
+      "name": "30.35ca3b1d.js",
+      "size": 2101,
       "chunks": [
         30
       ],
@@ -945,7 +937,7 @@
       "emitted": false
     },
     {
-      "name": "30.a1b7b0a7.js.map",
+      "name": "30.35ca3b1d.js.map",
       "size": 1794,
       "chunks": [
         30
@@ -959,8 +951,8 @@
       "emitted": false
     },
     {
-      "name": "31.077f0c6a.js",
-      "size": 1018,
+      "name": "31.aba4c2f5.js",
+      "size": 1465,
       "chunks": [
         31
       ],
@@ -973,8 +965,8 @@
       "emitted": false
     },
     {
-      "name": "31.077f0c6a.js.map",
-      "size": 2319,
+      "name": "31.aba4c2f5.js.map",
+      "size": 3849,
       "chunks": [
         31
       ],
@@ -1043,8 +1035,8 @@
       "emitted": false
     },
     {
-      "name": "34.6cda5e35.js",
-      "size": 155,
+      "name": "34.ba81348b.js",
+      "size": 156,
       "chunks": [
         34
       ],
@@ -1057,7 +1049,7 @@
       "emitted": false
     },
     {
-      "name": "34.6cda5e35.js.map",
+      "name": "34.ba81348b.js.map",
       "size": 91,
       "chunks": [
         34
@@ -1071,8 +1063,8 @@
       "emitted": false
     },
     {
-      "name": "35.b285037d.js",
-      "size": 7033,
+      "name": "35.26469eaf.js",
+      "size": 6860,
       "chunks": [
         35
       ],
@@ -1085,8 +1077,8 @@
       "emitted": false
     },
     {
-      "name": "35.b285037d.js.map",
-      "size": 12486,
+      "name": "35.26469eaf.js.map",
+      "size": 12320,
       "chunks": [
         35
       ],
@@ -1099,8 +1091,8 @@
       "emitted": false
     },
     {
-      "name": "36.fca8bb99.js",
-      "size": 1791,
+      "name": "36.78a38a81.js",
+      "size": 1797,
       "chunks": [
         36
       ],
@@ -1113,8 +1105,8 @@
       "emitted": false
     },
     {
-      "name": "36.fca8bb99.js.map",
-      "size": 4660,
+      "name": "36.78a38a81.js.map",
+      "size": 4675,
       "chunks": [
         36
       ],
@@ -1603,8 +1595,8 @@
       "emitted": false
     },
     {
-      "name": "52.a13c820f.js",
-      "size": 1096,
+      "name": "52.8bc05f9b.js",
+      "size": 1097,
       "chunks": [
         52
       ],
@@ -1617,7 +1609,7 @@
       "emitted": false
     },
     {
-      "name": "52.a13c820f.js.map",
+      "name": "52.8bc05f9b.js.map",
       "size": 1633,
       "chunks": [
         52
@@ -1631,13 +1623,13 @@
       "emitted": false
     },
     {
-      "name": "6.69871d74.js",
-      "size": 1055,
+      "name": "6.301afea9.js",
+      "size": 160286,
       "chunks": [
         6
       ],
       "chunkNames": [
-        "npm.hoist-non-react-statics"
+        "npm.gsap"
       ],
       "info": {
         "immutable": true
@@ -1645,77 +1637,77 @@
       "emitted": false
     },
     {
-      "name": "6.69871d74.js.map",
-      "size": 4798,
-      "chunks": [
-        6
-      ],
-      "chunkNames": [
-        "npm.hoist-non-react-statics"
-      ],
-      "info": {
-        "development": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "7.30a1a816.js",
-      "size": 471,
-      "chunks": [
-        7
-      ],
-      "chunkNames": [
-        "npm.invariant"
-      ],
-      "info": {
-        "immutable": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "7.30a1a816.js.map",
-      "size": 2048,
-      "chunks": [
-        7
-      ],
-      "chunkNames": [
-        "npm.invariant"
-      ],
-      "info": {
-        "development": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "8.87a9614e.js",
-      "size": 1097,
-      "chunks": [
-        8
-      ],
-      "chunkNames": [
-        "npm.object-assign"
-      ],
-      "info": {
-        "immutable": true
-      },
-      "emitted": false
-    },
-    {
-      "name": "8.87a9614e.js.LICENSE",
-      "size": 51,
+      "name": "6.301afea9.js.LICENSE",
+      "size": 4155,
       "chunks": [],
       "chunkNames": [],
       "info": {},
       "emitted": false
     },
     {
-      "name": "8.87a9614e.js.map",
-      "size": 3885,
+      "name": "6.301afea9.js.map",
+      "size": 813916,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "npm.gsap"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "7.0695a298.js",
+      "size": 1055,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "npm.hoist-non-react-statics"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "7.0695a298.js.map",
+      "size": 4798,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "npm.hoist-non-react-statics"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "8.645dd7a1.js",
+      "size": 471,
       "chunks": [
         8
       ],
       "chunkNames": [
-        "npm.object-assign"
+        "npm.invariant"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "8.645dd7a1.js.map",
+      "size": 2048,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "npm.invariant"
       ],
       "info": {
         "development": true
@@ -1731,13 +1723,13 @@
       "emitted": false
     },
     {
-      "name": "9.06a07599.js",
-      "size": 884,
+      "name": "9.cc3a0633.js",
+      "size": 1097,
       "chunks": [
         9
       ],
       "chunkNames": [
-        "npm.prop-types"
+        "npm.object-assign"
       ],
       "info": {
         "immutable": true
@@ -1745,13 +1737,21 @@
       "emitted": false
     },
     {
-      "name": "9.06a07599.js.map",
-      "size": 4106,
+      "name": "9.cc3a0633.js.LICENSE",
+      "size": 51,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "9.cc3a0633.js.map",
+      "size": 3885,
       "chunks": [
         9
       ],
       "chunkNames": [
-        "npm.prop-types"
+        "npm.object-assign"
       ],
       "info": {
         "development": true
@@ -1812,7 +1812,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css",
-      "size": 607,
+      "size": 689,
       "chunks": [
         31
       ],
@@ -1824,7 +1824,7 @@
     },
     {
       "name": "components-main-site-header-secondary-nav.css.map",
-      "size": 1061,
+      "size": 1169,
       "chunks": [
         31
       ],
@@ -1941,10 +1941,10 @@
       "emitted": false
     },
     {
-      "name": "runtime.7cde4108e3fb01e92109.js",
-      "size": 3786,
+      "name": "runtime.eb5a205a21cd8d79d8c9.js",
+      "size": 3784,
       "chunks": [
-        19
+        20
       ],
       "chunkNames": [
         "runtime"
@@ -1955,10 +1955,10 @@
       "emitted": false
     },
     {
-      "name": "runtime.7cde4108e3fb01e92109.js.map",
-      "size": 17090,
+      "name": "runtime.eb5a205a21cd8d79d8c9.js.map",
+      "size": 17088,
       "chunks": [
-        19
+        20
       ],
       "chunkNames": [
         "runtime"
@@ -1973,20 +1973,20 @@
   "entrypoints": {
     "main": {
       "chunks": [
-        19,
+        20,
         0,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
+        9,
+        15,
         24,
         23,
         44,
@@ -2005,38 +2005,38 @@
         50,
         51,
         5,
-        21,
+        22,
         35
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
         "24.47071469.js",
         "24.47071469.js.map",
         "23.218ea44e.js",
@@ -2073,44 +2073,44 @@
         "51.cb0f7f71.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "21.90f1104d.js",
-        "21.90f1104d.js.map",
+        "22.aec2af4f.js",
+        "22.aec2af4f.js.map",
         "main.css",
-        "35.b285037d.js",
+        "35.26469eaf.js",
         "main.css.map",
-        "35.b285037d.js.map"
+        "35.26469eaf.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "home": {
       "chunks": [
-        19,
+        20,
         0,
         2,
         1,
         3,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
-        16,
+        9,
+        15,
+        17,
         23,
         5,
-        20,
+        21,
         34
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2119,71 +2119,71 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
-        "16.32396c33.js",
-        "16.32396c33.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
+        "17.368de604.js",
+        "17.368de604.js.map",
         "23.218ea44e.js",
         "23.218ea44e.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "20.f8941d4f.js",
-        "20.f8941d4f.js.map",
-        "34.6cda5e35.js",
-        "34.6cda5e35.js.map"
+        "21.ba8cfda7.js",
+        "21.ba8cfda7.js.map",
+        "34.ba81348b.js",
+        "34.ba81348b.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "pizzas": {
       "chunks": [
-        19,
+        20,
         0,
         2,
         1,
         3,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
-        16,
+        9,
+        15,
+        17,
         5,
-        21,
+        22,
         52
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2192,38 +2192,38 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
-        "16.32396c33.js",
-        "16.32396c33.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
+        "17.368de604.js",
+        "17.368de604.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "21.90f1104d.js",
-        "21.90f1104d.js.map",
-        "52.a13c820f.js",
-        "52.a13c820f.js.map"
+        "22.aec2af4f.js",
+        "22.aec2af4f.js.map",
+        "52.8bc05f9b.js",
+        "52.8bc05f9b.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2232,20 +2232,20 @@
   "namedChunkGroups": {
     "main": {
       "chunks": [
-        19,
+        20,
         0,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
+        9,
+        15,
         24,
         23,
         44,
@@ -2264,38 +2264,38 @@
         50,
         51,
         5,
-        21,
+        22,
         35
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
         "24.47071469.js",
         "24.47071469.js.map",
         "23.218ea44e.js",
@@ -2332,44 +2332,44 @@
         "51.cb0f7f71.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "21.90f1104d.js",
-        "21.90f1104d.js.map",
+        "22.aec2af4f.js",
+        "22.aec2af4f.js.map",
         "main.css",
-        "35.b285037d.js",
+        "35.26469eaf.js",
         "main.css.map",
-        "35.b285037d.js.map"
+        "35.26469eaf.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "home": {
       "chunks": [
-        19,
+        20,
         0,
         2,
         1,
         3,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
-        16,
+        9,
+        15,
+        17,
         23,
         5,
-        20,
+        21,
         34
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2378,71 +2378,71 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
-        "16.32396c33.js",
-        "16.32396c33.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
+        "17.368de604.js",
+        "17.368de604.js.map",
         "23.218ea44e.js",
         "23.218ea44e.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "20.f8941d4f.js",
-        "20.f8941d4f.js.map",
-        "34.6cda5e35.js",
-        "34.6cda5e35.js.map"
+        "21.ba8cfda7.js",
+        "21.ba8cfda7.js.map",
+        "34.ba81348b.js",
+        "34.ba81348b.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "pizzas": {
       "chunks": [
-        19,
+        20,
         0,
         2,
         1,
         3,
-        13,
-        9,
-        18,
-        11,
-        12,
+        14,
         10,
-        15,
-        17,
-        6,
+        19,
+        12,
+        13,
+        11,
+        16,
+        18,
         7,
         8,
-        14,
-        16,
+        9,
+        15,
+        17,
         5,
-        21,
+        22,
         52
       ],
       "assets": [
-        "runtime.7cde4108e3fb01e92109.js",
-        "runtime.7cde4108e3fb01e92109.js.map",
+        "runtime.eb5a205a21cd8d79d8c9.js",
+        "runtime.eb5a205a21cd8d79d8c9.js.map",
         "0.d85cf689.js",
         "0.d85cf689.js.map",
         "2.d30ebde0.js",
@@ -2451,62 +2451,71 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "13.11800dfc.js",
-        "13.11800dfc.js.map",
-        "9.06a07599.js",
-        "9.06a07599.js.map",
-        "18.e169ac1f.js",
-        "18.e169ac1f.js.map",
-        "11.0fa773ac.js",
-        "11.0fa773ac.js.map",
-        "12.942e931b.js",
-        "12.942e931b.js.map",
-        "10.48b98c30.js",
-        "10.48b98c30.js.map",
-        "15.18456105.js",
-        "15.18456105.js.map",
-        "17.cf7d1a17.js",
-        "17.cf7d1a17.js.map",
-        "6.69871d74.js",
-        "6.69871d74.js.map",
-        "7.30a1a816.js",
-        "7.30a1a816.js.map",
-        "8.87a9614e.js",
-        "8.87a9614e.js.map",
-        "14.b91719d1.js",
-        "14.b91719d1.js.map",
-        "16.32396c33.js",
-        "16.32396c33.js.map",
+        "14.418bf8ff.js",
+        "14.418bf8ff.js.map",
+        "10.fa30a362.js",
+        "10.fa30a362.js.map",
+        "19.f7c666f8.js",
+        "19.f7c666f8.js.map",
+        "12.3cbf8ed5.js",
+        "12.3cbf8ed5.js.map",
+        "13.4c882d33.js",
+        "13.4c882d33.js.map",
+        "11.78df443c.js",
+        "11.78df443c.js.map",
+        "16.2fe3c723.js",
+        "16.2fe3c723.js.map",
+        "18.a65e3dd3.js",
+        "18.a65e3dd3.js.map",
+        "7.0695a298.js",
+        "7.0695a298.js.map",
+        "8.645dd7a1.js",
+        "8.645dd7a1.js.map",
+        "9.cc3a0633.js",
+        "9.cc3a0633.js.map",
+        "15.5debbed6.js",
+        "15.5debbed6.js.map",
+        "17.368de604.js",
+        "17.368de604.js.map",
         "5.efd55a45.js",
         "5.efd55a45.js.map",
-        "21.90f1104d.js",
-        "21.90f1104d.js.map",
-        "52.a13c820f.js",
-        "52.a13c820f.js.map"
+        "22.aec2af4f.js",
+        "22.aec2af4f.js.map",
+        "52.8bc05f9b.js",
+        "52.8bc05f9b.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "components-main-site-header": {
       "chunks": [
+        0,
         30
       ],
       "assets": [
-        "30.a1b7b0a7.js",
-        "30.a1b7b0a7.js.map"
+        "0.d85cf689.js",
+        "0.d85cf689.js.map",
+        "30.35ca3b1d.js",
+        "30.35ca3b1d.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "components-main-site-header-secondary-nav": {
       "chunks": [
+        0,
+        6,
         31
       ],
       "assets": [
+        "0.d85cf689.js",
+        "0.d85cf689.js.map",
+        "6.301afea9.js",
+        "6.301afea9.js.map",
         "components-main-site-header-secondary-nav.css",
-        "31.077f0c6a.js",
+        "31.aba4c2f5.js",
         "components-main-site-header-secondary-nav.css.map",
-        "31.077f0c6a.js.map"
+        "31.aba4c2f5.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2516,8 +2525,8 @@
         2,
         1,
         3,
-        16,
-        20
+        17,
+        21
       ],
       "assets": [
         "2.d30ebde0.js",
@@ -2526,10 +2535,10 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "16.32396c33.js",
-        "16.32396c33.js.map",
-        "20.f8941d4f.js",
-        "20.f8941d4f.js.map"
+        "17.368de604.js",
+        "17.368de604.js.map",
+        "21.ba8cfda7.js",
+        "21.ba8cfda7.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2551,8 +2560,8 @@
         "1.6ad8f05a.js.map",
         "3.e3ca7239.js",
         "3.e3ca7239.js.map",
-        "27.47c6785d.js",
-        "27.47c6785d.js.map"
+        "27.84863f00.js",
+        "27.84863f00.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2563,28 +2572,28 @@
       ],
       "assets": [
         "components-hero.css",
-        "29.132be3a4.js",
+        "29.e03978ca.js",
         "components-hero.css.map",
-        "29.132be3a4.js.map"
+        "29.e03978ca.js.map"
       ],
       "children": {},
       "childAssets": {}
     },
     "main-nav": {
       "chunks": [
-        22,
+        6,
         4,
         36
       ],
       "assets": [
-        "22.af52182d.js",
-        "22.af52182d.js.map",
+        "6.301afea9.js",
+        "6.301afea9.js.map",
         "4.5deb5e70.js",
         "4.5deb5e70.js.map",
         "main-nav.css",
-        "36.fca8bb99.js",
+        "36.78a38a81.js",
         "main-nav.css.map",
-        "36.fca8bb99.js.map"
+        "36.78a38a81.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -2635,17 +2644,17 @@
     "Video": {
       "chunks": [
         0,
+        6,
         24,
-        22,
         28
       ],
       "assets": [
         "0.d85cf689.js",
         "0.d85cf689.js.map",
+        "6.301afea9.js",
+        "6.301afea9.js.map",
         "24.47071469.js",
         "24.47071469.js.map",
-        "22.af52182d.js",
-        "22.af52182d.js.map",
         "Video.css",
         "28.92ed0af5.js",
         "Video.css.map",
@@ -2678,7 +2687,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2720,7 +2729,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2762,7 +2771,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2804,7 +2813,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2846,7 +2855,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2888,7 +2897,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2930,7 +2939,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -2972,7 +2981,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -3014,7 +3023,7 @@
       "errors": [],
       "warnings": [],
       "publicPath": "/assets/web/",
-      "outputPath": "/home/gcardella/Documents/projects/web/ninospizzeria/dist/web/",
+      "outputPath": "/Users/gcardella/Documents/projects/web/pizza-shop/dist/web/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,

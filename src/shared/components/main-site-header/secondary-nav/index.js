@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
+import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
+import { useSecondaryMenuTL } from './assets/utils/secondaryNavAnimations';
 
 import './assets/css/secondary-nav.css';
 
@@ -31,7 +33,14 @@ const items = [
 ];
 
 
-const SecondaryNav = () => {
+const SecondaryNav = props => {
+  const menuRef = useRef();
+
+  const tl = useSecondaryMenuTL(menuRef);
+
+  useEffect(() => {
+    props.isOpen ? tl.play() : tl.reverse();
+  }, [props.isOpen]);
 
   const hyphenate = str => str.replace( / /g, "-" );
 
@@ -42,7 +51,7 @@ const SecondaryNav = () => {
   const listGroupItems = (title, arr) => arr.map( (items, i) => items.map( (item, i) => <dd key={i}><Link to={ `\/${hyphenate(title)}\/${hyphenate(item)}` }>{item}</Link></dd>) );
 
   return (
-    <nav className="full-page-nav">
+    <nav ref={menuRef} className="full-page-nav">
       <div>
       <ul><li><Link to="/menu">full menu</Link></li></ul>
       { listItems(items) }
@@ -51,4 +60,9 @@ const SecondaryNav = () => {
   );
 };
 
-export default SecondaryNav;
+const mapStateToProps = ({ secondaryNavState }) => {
+  const { isOpen } = secondaryNavState;
+  return { isOpen };
+};
+
+export default connect(mapStateToProps)(SecondaryNav);

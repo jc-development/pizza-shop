@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import { connect } from 'react-redux';
+// import React, { useState, useEffect } from 'react';
+import React from 'react';
+// import { connect } from 'react-redux';
 import { Route, Switch } from 'react-router-dom';
 import loadable from '@loadable/component';
 
@@ -11,16 +12,16 @@ const SecondaryNav = loadable( () => import('./../components/main-site-header/se
 
 const App = props => {
 
-  const [ showSecondaryNav, setShowSecondaryNav ] = useState(false);
+  // const [ showSecondaryNav, setShowSecondaryNav ] = useState(false);
 
-  useEffect(() => {
-    setShowSecondaryNav(props.isOpen);
-  }, [props.isOpen]);
+  // useEffect(() => {
+  //   setShowSecondaryNav(props.isOpen);
+  // }, [props.isOpen]);
 
   return (
     <>
       <MainSiteHeader />
-      { showSecondaryNav ? <SecondaryNav /> : null }
+      <SecondaryNav />
       <Switch>
         <Route exact path="/" component={ loadable( () => import('./Home') ) } />
         <Route path="/pizzas" component={ loadable( () => import('./Pizzas') ) } />
@@ -29,9 +30,12 @@ const App = props => {
   );
 }
 
-const mapStateToProps = ({ secondaryNavState }) => {
-  const { isOpen } = secondaryNavState;
-  return { isOpen };
-};
+// const mapStateToProps = ({ secondaryNavState }) => {
+//   const { isOpen } = secondaryNavState;
+//   return { isOpen };
+// };
 
-export default connect(mapStateToProps)(App);
+// export default connect(mapStateToProps)(App);
+export default App;
+
+// { showSecondaryNav ? <SecondaryNav /> : null }
